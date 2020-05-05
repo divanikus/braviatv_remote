@@ -1,0 +1,7 @@
+{
+  "domain": "braviatv_remote",
+  "name": "BraviaTV remote emulation",
+  "documentation": "https://www.home-assistant.io/integrations/braviatv_remote",
+  "requirements": [],
+  "codeowners": []
+}
