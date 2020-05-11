@@ -116,7 +116,7 @@ COMMANDS = {
     'cursordown': 'AAAAAgAAAJcAAABQAw==',
     'cursorleft': 'AAAAAgAAAJcAAABNAw==',
     'cursorright': 'AAAAAgAAAJcAAABOAw==',
-    'shopremotecontrolforceddynamic': 'AAAAAgAAAJcAAABqAw==',
+    #'shopremotecontrolforceddynamic': 'AAAAAgAAAJcAAABqAw==',
     'flashplus': 'AAAAAgAAAJcAAAB4Aw==',
     'flashminus': 'AAAAAgAAAJcAAAB5Aw==',
     'demomode': 'AAAAAgAAAJcAAAB8Aw==',
